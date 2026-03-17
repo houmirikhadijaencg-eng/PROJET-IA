@@ -3,7 +3,7 @@
 # KHADIJA HOUMIRI 
 <img src="WhatsApp Image 2026-03-17 at 14.25.30 (1).jpeg" style="height:540px;margin-right:393px"/>
 # HLAL KAWTAR 
-<img src="image7.png" style="height:540px;margin-right:393px"/>
+<img src="WhatsApp Image 2026-03-17 at 14.40.36.jpeg" style="height:540px;margin-right:393px"/>
 # Explication détaillée du code
 
 Ce code est un projet d'analyse de données financières en Python, divisé en **deux grandes parties** : une analyse statistique exploratoire, puis du clustering (apprentissage non supervisé).
